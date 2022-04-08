@@ -1,4 +1,4 @@
-### Hi there 👋
+# Muazzam Chowdhury
 
 <!--
 **Muazzam99/Muazzam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
